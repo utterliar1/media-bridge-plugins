@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-19T02:36:01.635Z",
+  "generatedAt": "2026-10-19T15:10:26.133Z",
   "plugins": [
     {
       "types": [
@@ -9,13 +9,13 @@
       "id": "guoyu",
       "name": "我的片库",
       "author": "utterliar",
-      "version": "2.2.2",
-      "description": "可自由配置的媒体库：每行标题/影剧/语言/类型/国家/排序/年份窗口/剔除短时长剧都能改，含「国语短剧」独立库；国语口径含大陆/港/台，列表自动剔除未播出条目",
+      "version": "2.4.0",
+      "description": "可自由配置的媒体库：每行标题/影剧/语言/类型/国家/排序/年份窗口/剔除短时长剧都能改，含「国语短剧」独立库；国语口径含大陆/港/台，列表自动剔除未播出条目；每个库的封面能自己定 —— 出厂自带烤字封面，也可以从这一行挑一张、或从自己设备上选一张本地图片",
       "hasWebui": true,
       "depends": [],
-      "bytes": 13032,
-      "md5": "37e3e115b9e413ed1e05d1bf0eb35e27",
-      "path": "packages/guoyu/guoyu-2.2.2.tar.gz"
+      "bytes": 1847818,
+      "md5": "40923d4db2bd69fb06ce786fd487bd4f",
+      "path": "packages/guoyu/guoyu-2.4.0.tar.gz"
     }
   ]
 }
